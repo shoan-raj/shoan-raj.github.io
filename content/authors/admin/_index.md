@@ -44,8 +44,8 @@ interests:
 education:
   - area: BTech in Electrical Engineering and Minor in Computer Science
     institution: Indian Institute of Technology, Delhi
-    date_start: July 2023
-    date_end: August 2027
+    date_start: 2023-07-01
+    date_end: 2027-08-01
     summary: |
       GPA: 9.25/10
       Department Rank: 3rd
