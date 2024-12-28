@@ -38,6 +38,8 @@ profiles:
     url: https://github.com/AddledAnorak
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shoan-raj/
+  - icon: brands/cv
+    url: uploads/Shoan Raj - CV.pdf
 
 interests:
   - Reinforcement Learning
