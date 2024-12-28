@@ -33,7 +33,7 @@ profiles:
   - icon: brands/x
     url: https://x.com/Shoan_TheSheep
   - icon: brands/bluesky
-    url: https://x.com/Shoan_TheSheep
+    url: https://bsky.app/profile/addledanorak.bsky.social
   - icon: brands/github
     url: https://github.com/AddledAnorak
   - icon: brands/linkedin
