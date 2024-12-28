@@ -32,6 +32,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/Shoan_TheSheep
+  - icon: brands/bluesky
+    url: https://x.com/Shoan_TheSheep
   - icon: brands/github
     url: https://github.com/AddledAnorak
   - icon: brands/linkedin
@@ -157,4 +159,4 @@ awards:
 
 ## About Me
 
-I am a Student at the Indian Institute of Technology, Delhi. 
+I am a 2nd year undergradute student at the Indian Institute of Technology, Delhi. 
