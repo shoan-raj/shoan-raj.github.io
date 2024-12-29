@@ -26,8 +26,6 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-      background:
-        color: '#27272a'
   - block: collection
     id: papers
     content:
