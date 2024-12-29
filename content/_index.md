@@ -27,7 +27,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: 'light-gray'
+        color: '#27272a'
   - block: collection
     id: papers
     content:
