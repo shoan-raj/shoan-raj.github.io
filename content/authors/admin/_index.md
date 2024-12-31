@@ -38,11 +38,12 @@ profiles:
     url: https://github.com/AddledAnorak
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shoan-raj/
-  - icon: brands/cv
-    url: uploads/Shoan Raj - CV.pdf
+  # - icon: brands/cv
+  #   url: uploads/Shoan Raj - CV.pdf
 
 interests:
   - Reinforcement Learning
+  - Generative AI
   - Machine Learning
 
 education:
@@ -121,11 +122,8 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+  - name: Marathi
 
 # Awards.
 #   Add/remove as many awards below as you like.
