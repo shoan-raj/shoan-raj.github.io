@@ -18,4 +18,8 @@ main:
     weight: 12
   - name: CV
     url: uploads/Shoan Raj - CV.pdf
+    weight: 11
+  - name: Transcript
+    url: uploads/Shoan Raj - Official Transcript.pdf
+    weight: 11
 
