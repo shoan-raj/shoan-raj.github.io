@@ -159,4 +159,6 @@ awards:
 
 ## About Me
 
-I am a 2nd year undergradute student at the Indian Institute of Technology, Delhi. 
+I am a 2nd year undergradute student at the Indian Institute of Technology, Delhi.
+
+My research interests lie in building intelligent agents using reinforcement learning and generative models. 
