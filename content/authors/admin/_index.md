@@ -161,4 +161,11 @@ awards:
 
 I am a 2nd year undergradute student at the Indian Institute of Technology, Delhi.
 
-My research interests lie in building intelligent agents using reinforcement learning and generative models. 
+My research interests lie in building intelligent agents using reinforcement learning and generative models. I'm currently working in safe RL with Dr. Raunak Bhattacharyya at the Yardi School of AI, IITD. I'm also part of the genoshi team, as the Product Lead.
+
+My research interests lie in building intelligent agents using reinforcement learning and generative models. I'm currently working in safe RL with Dr. Raunak Bhattacharyya at the Yardi School of AI, IITD. I'm also part of the genoshi team, as the Product Lead.
+
+My research interests lie in building intelligent agents using reinforcement learning and generative models. I'm currently working in safe RL with Dr. Raunak Bhattacharyya at the Yardi School of AI, IITD. I'm also part of the genoshi team, as the Product Lead.
+
+My research interests lie in building intelligent agents using reinforcement learning and generative models. I'm currently working in safe RL with Dr. Raunak Bhattacharyya at the Yardi School of AI, IITD. I'm also part of the genoshi team, as the Product Lead.
+
